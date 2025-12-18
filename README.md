@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Praveen Kumar Reddy
 
-<!--
-**praveenkumarre46/praveenkumarre46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 MCA @ Amrita Vishwa Vidyapeetham — ML | DL | Python  
+📈 300+ solved problems on Leetcode | DSA, Algorithms  
+🧠 Currently building: Fake News Detection + Crop Price Prediction Research Paper
 
-Here are some ideas to get you started:
+💻 Tech: Python, Flask, Machine Learning, Deep Learning, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect:
+🔗 LinkedIn: https://www.linkedin.com/in/ppraveenkumarreddy
+📄 Resume: [https://drive.google.com/your-resume.pdf
+](https://drive.google.com/file/d/1mGem8a5-Iu92KUoYoKzBszZ6pIWBZ-gn/view?usp=drive_link)
+
