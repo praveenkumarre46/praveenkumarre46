@@ -2,9 +2,9 @@
 
 📌 MCA @ Amrita Vishwa Vidyapeetham — ML | DL | Python  
 📈 300+ solved problems on Leetcode | DSA, Algorithms  
-🧠 Currently building: Fake News Detection + Crop Price Prediction Research Paper
+🧠 Currently building: Fake News Detection + Knowledge graph Research Paper
 
-💻 Tech: Python, Flask, Machine Learning, Deep Learning, SQL
+💻 Tech: Python, FastAPI, Machine Learning, Deep Learning, SQL
 
 📫 Connect:
 🔗 LinkedIn: https://www.linkedin.com/in/ppraveenkumarreddy
