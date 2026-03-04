@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Praveen Kumar Reddy
 
 📌 MCA @ Amrita Vishwa Vidyapeetham — ML | DL | Python  
-📈 340+ solved problems on Leetcode | DSA, Algorithms  
+📈 350+ solved problems on Leetcode | DSA, Algorithms  
 🧠 Currently building: Fake News Detection + Knowledge graph Research Paper
 
 💻 Tech: Python, FastAPI, Machine Learning, Deep Learning, SQL
