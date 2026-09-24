@@ -26,10 +26,8 @@ Software Engineer @ IBM | Specializing in scalable RESTful APIs, high-performanc
 
 ### 📊 Stats & Coding Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-downloadable.vercel.app/api?username=praveenkumarre46&show_icons=true&theme=radial&hide_border=true" alt="Praveen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-leetcode-stats.vercel.app/api?username=praveenkumarre46&theme=dark" alt="LeetCode Stats" width="48%" />
-</p>
+![LeetCode Solved](https://img.shields.io/badge/LeetCode-480%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GitHub Commits](https://img.shields.io/badge/GitHub-Active_Contributor-2EA44F?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
