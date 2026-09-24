@@ -26,7 +26,7 @@ Software Engineer @ IBM | Specializing in scalable RESTful APIs, high-performanc
 
 ### 📊 Stats & Coding Activity
 
-![LeetCode Solved](https://img.shields.io/badge/LeetCode-480%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![LeetCode Solved](https://img.shields.io/badge/LeetCode-520%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![GitHub Commits](https://img.shields.io/badge/GitHub-Active_Contributor-2EA44F?style=for-the-badge&logo=github&logoColor=white)
 
 ---
