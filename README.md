@@ -3,8 +3,8 @@
 Software Engineer @ IBM | Specializing in scalable RESTful APIs, high-performance database architectures, and production backend systems.
 
 - 💻 **Core Stack**: Python | FastAPI | PostgreSQL | REST APIs
-- ⚙️ **Architecture & Design**: System Design, Microservices, Relational Database Modeling & Optimization
-- 🧩 **Problem Solving**: 520+ Solved Problems across LeetCode & HackerRank (DSA Specialist)
+- ⚙️ **Architecture & Design**: System Design, Relational Database Modeling & Optimization
+- 🧩 **Problem Solving**: 520+ Solved Problems across LeetCode (DSA Specialist)
 - 🎓 **Education**: MCA @ Amrita Vishwa Vidyapeetham
 
 ---
